@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nithusan Krishnasamymudali</h1>
 <h3 align="center">Currently studying "Informatikk: Programmering og systemarkitektur" at the University Of Oslo</h3>
 
-- 🌱 I’m currently learning **IN2000 (Software Engineering med prosjektarbeid) and IN2140 (Introduksjon til operativsystemer og datakommunikasjon)**
+- 🌱 I’m currently learning **IN2000 (Software Engineering with project work) and IN2140 (Introduction to operating systems and data communication)**
 
-- 📫 How to reach me **nithusank.2002@gmail.com**
+- 📫 How to reach me: **Email: nithusank.2002@gmail.com | Phone: +47 40 95 96 70**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +32,3 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
