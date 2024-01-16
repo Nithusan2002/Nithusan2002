@@ -32,7 +32,3 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<div class="badge-base LI-profile-badge" data-locale="no_NO" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="nithusan-k" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/nithusan-k?trk=profile-badge">Nithusan Krishnasamymudali</a></div>
-              
