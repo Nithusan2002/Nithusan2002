@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithusan2002&label=Profile%20views&color=0e75b6&style=flat" alt="nithusan2002" /> </p>
 
-- 🌱 I’m currently learning **IN2000 (Software Engineering with project work) and IN2140 (ntroduction to operating systems and data communication)**
+- 🌱 I’m currently learning **IN2000 (Software Engineering with project work) and IN2140 (Introduction to operating systems and data communication)**
 
 - 📫 How to reach me: **Email: nithusank.2002@gmail.com | Phone: +47 40 95 96 70**
 
