@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithusan Krishnasamymudali</h1>
 <h3 align="center">Currently studying "Informatikk: Programmering og systemarkitektur" at the University Of Oslo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithusan2002&label=Profile%20views&color=0e75b6&style=flat" alt="nithusan2002" /> </p>
 
 - 🌱 I’m currently learning **IN2000 (Software Engineering with project work) and IN2140 (Introduction to operating systems and data communication)**
 
