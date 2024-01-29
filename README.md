@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Currently studying "Informatikk: Programmering og systemarkitektur" at the University Of Oslo
 
-*   🌍  I'm based in Oslo, Norway
+*   🌍  I'm based in Oslo
 *   ✉️  You can contact me at [nithusank.2002@gmail.com](mailto:nithusank.2002@gmail.com)
 *   🧠  I'm learning Kotlin, Android studio, C
 
