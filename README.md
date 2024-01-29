@@ -5,7 +5,7 @@ Currently studying "Informatikk: Programmering og systemarkitektur" at the Unive
 
 *   🌍  I'm based in Oslo
 *   ✉️  You can contact me at [nithusank.2002@gmail.com](mailto:nithusank.2002@gmail.com)
-*   🧠  I'm learning Kotlin, Android studio, C
+*   🧠  I'm currently learning Kotlin, Android studio, C
 
 ### Skills
 <p align="left">
