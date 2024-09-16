@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithusan Krishnasamymudali</h1>
 <h3 align="center">Currently studying "Informatikk: Programmering og systemarkitektur" at the University Of Oslo</h3>
 
+- 👨‍💻 All of my projects are available at [portfolio-nithusan.no](portfolio-nithusan.no)
 - 📫 How to reach me: **Email: nithusank.2002@gmail.com | Phone: +47 40 95 96 70**
 
 <h3 align="left">Connect with me:</h3>
