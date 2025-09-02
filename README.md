@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nithusan Krishnasamymudali
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 
 ## 👨‍🎓 About Me
 I am currently studying **Informatikk: Programmering og systemarkitektur** at the University of Oslo.  
