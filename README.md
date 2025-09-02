@@ -11,9 +11,7 @@ Passionate about **software development, backend systems, and system architectur
 📄 Check out my [Resume](https://drive.google.com/file/d/1S_-JVrVkerRn4qK4oCiTt1D_SoKlt1w2/view?usp=drive_link)
 
 ### 🔹 Selected Projects
-- **Portfolio Website** – A clean and minimal portfolio showcasing my projects and experience. [Repo](https://github.com/nithusan2002/portfolio)
-- **Billettsystem (IN3240)** – Tested a new ticket system using the V-model and automated test cases. [Repo](#)
-- **AI-Powered Dropshipping Tool** – Prototype tool for recommending fitness equipment using AI. [Repo](#)
+- [**LiftOff**](https://github.com/Nithusan2002/LiftOff)
 
 ---
 
