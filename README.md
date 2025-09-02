@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nithusan Krishnasamymudali
+# Hi 👋, my name is Nithusan
 ![Header](./github-header-banner.png)
 
 ## 👨‍🎓 About Me
