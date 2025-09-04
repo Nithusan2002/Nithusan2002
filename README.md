@@ -65,6 +65,5 @@ LiftOff is an Android app that provides a complete overview of weather condition
 ## 📫 How to reach Me
 - Email: <nithusank.2002@gmail.com>
 - [LinkedIn](https://www.linkedin.com/in/nithusan-k/)
-- 
 
 ---
