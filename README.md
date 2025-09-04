@@ -1,31 +1,49 @@
-# Hi 👋, my name is Nithusan
-![Header](./github-header-banner.png)
-
-## 👨‍🎓 About Me
-I am currently studying **Informatikk: Programmering og systemarkitektur** at the University of Oslo.  
-Passionate about **software development, backend systems, and system architecture**, and always eager to learn new technologies and improve my skills.
-
----
-
-## 💼 Experience & Resume
-📄 Check out my [Resume](https://drive.google.com/file/d/1S_-JVrVkerRn4qK4oCiTt1D_SoKlt1w2/view?usp=drive_link)
-
-### 🔹 Selected Projects
-- [**LiftOff**](https://github.com/Nithusan2002/LiftOff)
-
----
-
-## 🛠 Languages & Tools
-<p>
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<h1 align="center">Nithusan Krishnasamymudali</h1>
+<p align="center">
+  <b>Computer Science Student | Backend Developer in Progress</b>
 </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+</p>
+
+---
+
+## 👋 About Me
+Hi! I'm Nithusan, a computer science student at the University of Oslo, passionate about **software development, backend systems, and system architecture**, and always eager to learn new technologies and improve my skills.
+
+---
+
+<!-- ## 💼 Experience & Resume 
+📄 Check out my [Resume](https://drive.google.com/file/d/1S_-JVrVkerRn4qK4oCiTt1D_SoKlt1w2/view?usp=drive_link) -->
+
+## 🚀 Portfolio
+
+My portfolio is the best reflection of my work.
+
+🔗 [Check out my portfolio](https://Nithusan.no)
+
+---
+
+## 🏆 Featured Projects
+
+### 🚀 [**LiftOff**](https://github.com/Nithusan2002/LiftOff)
+
+LiftOff is an Android app that provides a complete overview of weather conditions at a specific location and time, helping users decide if a rocket launch is safe by combining a modern interface with real-time weather data.
+
+- **Stack:** Kotlin, Android Studio, Jetpack Compose (Material Design 3), Jetpack ViewModel
+- **Highlights:**
+  - Visualizes weather data relevant for rocket launches
+  - Seamless navigation between search, results, map view, and favorites
+  - User-friendly, responsive, and accessible interface
+  - Save favorite locations and launch windows
+  - Excellent project to showcase Android development and modern Kotlin skills
 
 ---
 
@@ -36,14 +54,17 @@ Passionate about **software development, backend systems, and system architectur
 
 ---
 
-## 📫 How to Reach Me
-- **Email:** nithusank.2002@gmail.com  
-- **Phone:** +47 40 95 96 70  
+## 🌍 Languages
+
+- Norwegian (native)
+- English (advanced)
+- Tamil (native)
 
 ---
 
-## 🌐 Connect with Me
-<p>
-<a href="https://linkedin.com/in/nithusan-k" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://instagram.com/nithusan02" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
-</p>
+## 📫 How to reach Me
+- Email: <nithusank.2002@gmail.com>
+- [LinkedIn](https://www.linkedin.com/in/nithusan-k/)
+- 
+
+---
