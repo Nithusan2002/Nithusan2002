@@ -20,8 +20,15 @@ Hi! I'm Nithusan, a computer science student at the University of Oslo, passiona
 
 ---
 
+## 🔨 Currently Working On
+- 📱 Developing my first iOS app with **Swift** and **Xcode**, exploring the fundamentals of mobile development for Apple devices  
+- 🗄️ Building a stronger foundation in **backend development** (APIs, databases, cloud)  
+- 📚 Continuing my computer science studies at the University of Oslo
+
 <!-- ## 💼 Experience & Resume 
 📄 Check out my [Resume](https://drive.google.com/file/d/1S_-JVrVkerRn4qK4oCiTt1D_SoKlt1w2/view?usp=drive_link) -->
+
+---
 
 ## 🚀 Portfolio
 
