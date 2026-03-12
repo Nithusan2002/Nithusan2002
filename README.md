@@ -1,85 +1,94 @@
 <h1 align="center">Nithusan Krishnasamymudali</h1>
 <p align="center">
-  <b>BSc. Informatikk | IT Manager @ Radio Nova | Backend & System Architecture</b>
+  <b>IT Manager @ Radio Nova | BSc Informatics (UiO) | Backend · Systems · Cloud</b>
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30"/>
 </p>
 
 ---
 
 ## 👋 About Me
-I'm a bachelor's student in **Informatics: Programming and System Architecture** at the University of Oslo, with a strong focus on **backend development, system design, and IT operations**.
+I am an Informatics student at the University of Oslo specializing in **Programming and System Architecture**, currently working as **IT Manager at Radio Nova**.
 
-Alongside my studies, I work as **IT Manager at Radio Nova**, where I’m responsible for servers, internal systems, and infrastructure modernization — including cloud migration, security improvements, and monitoring.
+In this role, I am responsible for **server operations, infrastructure reliability, internal systems, and cloud modernization**.  
+I enjoy working close to production environments — solving real operational problems, improving system stability, and building structured backend solutions.
 
-I enjoy working close to the system level: building reliable backend solutions, understanding infrastructure, and taking responsibility for systems running in production.
+My main interests include:
 
----
+- Backend development  
+- Linux and infrastructure  
+- Cloud platforms and system reliability  
+- API design and database systems  
 
-## 🔨 Currently Working On
-- 🖥️ IT operations and infrastructure at **Radio Nova** (Linux, servers, internal systems)
-- ☁️ Modernizing infrastructure using **cloud solutions (Azure)**
-- 🗄️ Strengthening backend skills: APIs, databases, and system architecture
-- 📱 Exploring iOS development with **Swift** and **Xcode**
-- 📚 Completing my BSc. in Informatics at the University of Oslo
-
----
-
-## 🚀 Portfolio
-My portfolio reflects my academic background, projects, and practical experience.
-
-🔗 **https://nithusan.no**
+I am currently seeking opportunities within **backend development, IT operations, or DevOps-oriented roles**.
 
 ---
 
-## 🏆 Featured Projects
-
-### 🚀 LiftOff
-🔗 https://github.com/Nithusan2002/LiftOff
-
-LiftOff is an Android application that helps users assess whether a rocket launch is safe by visualizing weather conditions for a specific location and time.
-
-**Tech Stack**
-- Kotlin
-- Android Studio
-- Jetpack Compose (Material Design 3)
-- MVVM architecture
-
-**What this project demonstrates**
-- Structured application architecture (MVVM)
-- API data handling and state management
-- Focus on reliability, clarity, and user-oriented design
-- Experience with modern Android development practices
+## 💼 Current Responsibilities (Radio Nova)
+- Operating and maintaining Linux-based servers and internal services  
+- Managing domains, DNS configuration, and hosting environments  
+- Supporting internal users and improving technical workflows  
+- Contributing to infrastructure modernization and cloud adoption (Azure)  
+- Ensuring system stability and long-term technical improvements  
 
 ---
 
-## 🧠 Core Skills
+## 🚀 Featured Project
+
+### LiftOff  
+🔗 https://github.com/Nithusan2002/LiftOff  
+
+Android application that evaluates rocket launch conditions by visualizing weather data for specific locations and timeframes.
+
+**Technologies**
+- Kotlin  
+- Jetpack Compose  
+- REST APIs  
+- MVVM architecture  
+
+**Key takeaways**
+- Modular and structured application architecture  
+- Data handling and state management  
+- Focus on clarity, reliability, and real-world usability  
+
+---
+
+## 🧠 Technical Focus
 - Backend Development (Java, Python)
-- Databases (PostgreSQL)
-- System Architecture & Design
-- Linux & Server Operations
+- Databases & SQL (PostgreSQL)
+- Linux Server Operations
+- REST API Design
 - Git & Version Control
-- Cloud fundamentals (Azure)
+- Cloud Fundamentals (Azure)
+- System Architecture Principles
+
+---
+
+## 🎓 Education
+**BSc Informatics – Programming and System Architecture**  
+University of Oslo  
+2021 – 2026  
 
 ---
 
 ## 🌍 Languages
 - Norwegian (native)
-- English (advanced)
 - Tamil (native)
+- English (advanced)
 
 ---
 
-## 📫 How to reach me
-- 📧 Email: nithusank.2002@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/nithusan-k
-- 🌐 Portfolio: https://nithusan.no
+## 📫 Contact
+- 📧 Email: nithusank.2002@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/nithusan-k  
+- 🌐 Portfolio: https://nithusan.no  
